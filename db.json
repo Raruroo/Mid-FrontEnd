@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "Wullur, Valentino Febrian Miracle",
+    "title": "Frontend Developer",
+    "bio": "I build accessible, fast and delightful web apps.",
+    "location": "Manado, Indonesia",
+    "email": "s22310501@student.unklab.ac.id",
+    "phone": "+62 895-3973-22363",
+    "socials": {
+      "github": "https://github.com/Raruroo",
+      "linkedin": "https://linkedin.com/in/valentino"
+    }
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Frontend Developer",
+      "company": "Startup ABC",
+      "range": "2023 - Present",
+      "desc": "Building React apps with Vite and Tailwind."
+    },
+    {
+      "id": 2,
+      "role": "Intern - Web",
+      "company": "Agency XYZ",
+      "range": "2022",
+      "desc": "Worked on corporate sites and small e-commerce."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Site",
+      "summary": "A personal portfolio using React + Tailwind.",
+      "link": "#"
+    }
+  ],
+  "skills": [
+    "React",
+    "Vite",
+    "Tailwind CSS",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ]
+}
